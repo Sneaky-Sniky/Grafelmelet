@@ -1,0 +1,3 @@
+C:/Egyetem/II/Felev I/Grafelmelet/ora3/cmake-build-debug/CMakeFiles/ora3.dir
+C:/Egyetem/II/Felev I/Grafelmelet/ora3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Egyetem/II/Felev I/Grafelmelet/ora3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
